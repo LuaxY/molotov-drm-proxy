@@ -23,6 +23,9 @@ You need episode ID in order to request the correct video, by example Rick & Mor
 Manifest: http://localhost/cdn/3997154.mpd  
 DRM: http://localhost/drm/3997154
 
+You can test here: https://www.jwplayer.com/developers/stream-tester/  
+(Use `Widevine` as DRM)
+
 ### Infos
 
 1. I have removed subtitles from manifest in order to be compatible with JWPlayer.
